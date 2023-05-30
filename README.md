@@ -1,8 +1,28 @@
-# StyleAvatar3D
-Official repo for StyleAvatar3D
+# Official repo for StyleAvatar3D
+StyleAvatar3D: Leveraging Image-Text Diffusion Models for High-Fidelity 3D Avatar Generation
 
 
-Demo videos:
-https://github.com/icoz69/StyleAvatar3D/assets/22427667/89f69af4-ad87-4a7b-8df9-fde86be081f4
+[[Arxiv]](https://icoz69.github.io/)
 
-<video width="630" height="300" src="[https://user-images.githubusercontent.com/126239/151127893-5c98ba8d-c431-4a25-bb1f-e0b33645a2b6.mp4](https://github-production-user-asset-6210df.s3.amazonaws.com/22427667/241861075-89f69af4-ad87-4a7b-8df9-fde86be081f4.mp4)"></video>
+## Demos
+
+Avatars of different styles
+
+
+https://github.com/icoz69/StyleAvatar3D/assets/22427667/846c0699-a1ce-460b-ae47-3b322d8b4fec
+
+
+
+Latent space walk
+
+
+
+https://github.com/icoz69/StyleAvatar3D/assets/22427667/cd5c2e34-e370-498e-ac6b-46b4e4cca495
+
+
+
+
+Cartoon character reconstruction 
+
+https://github.com/icoz69/StyleAvatar3D/assets/22427667/b7c6ec00-6488-40d3-b7fe-b035397142ce
+
