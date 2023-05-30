@@ -1,8 +1,9 @@
 # Official repo for StyleAvatar3D
-StyleAvatar3D: Leveraging Image-Text Diffusion Models for High-Fidelity 3D Avatar Generation
+**StyleAvatar3D: Leveraging Image-Text Diffusion Models for High-Fidelity 3D Avatar Generation**
 
+Chi Zhang, Yiwen Chen, Yijun Fu, Zhenglin Zhou, Gang YU, Billzb Wang, BIN FU, Tao Chen, Guosheng Lin, Chunhua Shen
 
-[[Arxiv]](https://icoz69.github.io/)
+[[Arxiv]](https://github.com/icoz69/StyleAvatar3D)
 
 ## Abstract
 
@@ -29,6 +30,8 @@ https://github.com/icoz69/StyleAvatar3D/assets/22427667/cd5c2e34-e370-498e-ac6b-
 
 
 Cartoon character reconstruction 
+
+<img src='lora.png'>
 
 https://github.com/icoz69/StyleAvatar3D/assets/22427667/b7c6ec00-6488-40d3-b7fe-b035397142ce
 
