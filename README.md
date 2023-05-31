@@ -3,7 +3,7 @@
 
 Chi Zhang, Yiwen Chen, Yijun Fu, Zhenglin Zhou, Gang YU, Billzb Wang, BIN FU, Tao Chen, Guosheng Lin, Chunhua Shen
 
-[[Arxiv]](https://github.com/icoz69/StyleAvatar3D)
+[[Arxiv]](https://arxiv.org/abs/2305.19012)
 
 ## Abstract
 
@@ -35,3 +35,19 @@ Cartoon character reconstruction
 
 https://github.com/icoz69/StyleAvatar3D/assets/22427667/b7c6ec00-6488-40d3-b7fe-b035397142ce
 
+## Code
+
+To be updated in the future
+
+##Cite
+
+If you want to cite our work, please use the following bib entry:
+
+    @misc{zhang2023styleavatar3d,
+          title={StyleAvatar3D: Leveraging Image-Text Diffusion Models for High-Fidelity 3D Avatar Generation}, 
+          author={Chi Zhang and Yiwen Chen and Yijun Fu and Zhenglin Zhou and Gang YU and Billzb Wang and Bin Fu and Tao Chen and Guosheng Lin and Chunhua Shen},
+          year={2023},
+          eprint={2305.19012},
+          archivePrefix={arXiv},
+          primaryClass={cs.CV}
+    }
