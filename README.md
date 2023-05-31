@@ -1,7 +1,8 @@
 # Official repo for StyleAvatar3D
 **StyleAvatar3D: Leveraging Image-Text Diffusion Models for High-Fidelity 3D Avatar Generation**
 
-Chi Zhang, Yiwen Chen, Yijun Fu, Zhenglin Zhou, Gang YU, Billzb Wang, BIN FU, Tao Chen, Guosheng Lin, Chunhua Shen
+[Chi Zhang](https://icoz69.github.io/), Yiwen Chen, Yijun Fu, Zhenglin Zhou, Gang YU, Billzb Wang, BIN FU, Tao Chen, Guosheng Lin, Chunhua Shen
+
 
 [[Arxiv]](https://arxiv.org/abs/2305.19012)
 
