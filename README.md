@@ -40,7 +40,7 @@ https://github.com/icoz69/StyleAvatar3D/assets/22427667/b7c6ec00-6488-40d3-b7fe-
 
 To be updated in the future
 
-##Cite
+## Cite
 
 If you want to cite our work, please use the following bib entry:
 
