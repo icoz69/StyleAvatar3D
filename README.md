@@ -39,6 +39,7 @@ https://github.com/icoz69/StyleAvatar3D/assets/22427667/b7c6ec00-6488-40d3-b7fe-
 ## Code
 
 To be updated in the future
+**(Due to company policy, we are not able to open-source codes recently. If you want to re-implement the project, we would like to offer help and instructions. Please send email to the first author.  )**
 
 ##Cite
 
